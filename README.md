@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasinkurtulus
-- 👀 I’m interested in Game Developing and Other Software Languages
+- 👀 I’m interested in Game Developing.I am also learning Java and C# .net
 - 🌱 I’m currently learning Java and Unity Game Engine
 
 <!---
