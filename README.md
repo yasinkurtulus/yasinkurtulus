@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yasinkurtulus<br>👀 I’m interested in Game Developing.I am also learning Java and C# .net<br>🌱 I’m studying Computer Engineering at Eskisehir Technical University
+👋 Hi, I’m @yasinkurtulus<br>👀 Data Science and Machine Learning🌱 I’m studying Computer Engineering at Eskisehir Technical University
 
 
 # 💻 Tech Stack:
