@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @yasinkurtulus<br>👀 Data Science and Machine Learning🌱 I’m studying Computer Engineering at Eskisehir Technical University
+👋 Hi, I’m @yasinkurtulus<br>👀 Data Science and Machine Learning
+🌱 I’m studying Computer Engineering at Eskisehir Technical University
 
 
 # 💻 Tech Stack:
